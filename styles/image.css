@@ -1,0 +1,56 @@
+
+.image-container {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+
+.image-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+
+.image {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    height: auto;
+    border: 5px solid black;
+    padding: 10px; 
+}
+
+
+.image-description {
+    margin-top: 20px;
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+
+.notice {
+    text-align: center;
+    color: red;
+    font-size: 1.5em;
+}
+
+
+a {
+    display: block;
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+a:hover {
+    background-color: #0056b3;
+}
